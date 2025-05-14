@@ -1,0 +1,6 @@
+plots
+*ipynb
+*npy
+__pycache__
+venv
+.idea
