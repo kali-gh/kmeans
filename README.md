@@ -11,13 +11,17 @@ We intialize randomly generated data with random assignments. Then we alterate:
 ### Results
 
 Initial random assignment
+
 ![alt text](assets/plot_initial_random_assignment.png)
 
 First iteration
+
 ![alt text](assets/plot_iteration_0.png)
 
 Second iteration
+
 ![alt text](assets/plot_iteration_1.png)
 
 Third iteration
+
 ![alt text](assets/plot_iteration_2.png)
